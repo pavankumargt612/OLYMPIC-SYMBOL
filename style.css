@@ -1,17 +1,18 @@
-
 h1
 {
-	color: red; 
+	color: rgb(255, 51, 0); 
 	font-size: 40px;
 }
 .body_backgorund {
-	background-image:url("bg1.jpg") ;
+	background-image: Url("bg1.jpg");
+	background-position: center;
 	background-size: cover;
-	background-position:center ;
 }
 
 #myCanvas{
-border: width 10px;
-background-color: whitesmoke;
+border-width: 10px;
+
+background-image:url("https://www.topendsports.com/resources/stadiums/images/australia-mcg-com-games.jpg") ;
 border-style: ridge;
+
 }
